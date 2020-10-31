@@ -1,0 +1,65 @@
+h2{   font-style:italic;
+}
+
+
+
+.main{
+	width:200px;
+	height:250px;	
+        background-color:grey;
+	
+}
+#sol{
+	float:left;
+	height:44px;
+	width:142px;
+	
+	
+
+}
+
+
+
+#clr{
+	float:right;
+	height:50px;
+	width:50px;
+	color:red;
+
+}
+#flt{
+	float:left;
+	height:50px;
+	width:50px;
+	
+
+}
+#equal{
+	float:left;
+	height:50px;
+	width:50px;
+	color:green;
+	
+
+}
+#sign{
+	float:left;
+	height:50px;
+	width:50px;
+	color:blue;
+	
+
+}
+
+#square{
+	float:left;
+	height:50px;
+	width:100px;
+	
+
+}
+
+
+
+
+
